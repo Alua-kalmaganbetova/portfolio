@@ -57,7 +57,7 @@ html{
         width: 80%;
     }
     .w50{
-        width: 30%; 
+        width: 90%; 
     }
     input{
         display: block;
@@ -75,8 +75,8 @@ html{
     }
     #aboutme{
         padding: 50px;
-        color:#AC7D88;
-        background-color: #FDF0D1;
+        color: #FDF0D1;
+        background-color: #AC7D88;
         position: relative;
         z-index: 3;
     }
@@ -86,8 +86,8 @@ html{
     
     #about1{
         padding: 50px;
-        color:#AC7D88;
-        background-color: #FDF0D1;
+        color: #FDF0D1;
+        background-color: #AC7D88;
         position: relative;
         z-index: 3;
         height: 60%;
@@ -204,8 +204,8 @@ html{
     .card2{
         border: 1px solid #643843 ;
         width: 500px;
-        color: #643843;
-        background-color: #FDF0D1;
+        color: #FDF0D1;
+        background-color: #AC7D88;
         padding: 50px ;
         border-radius: 30px;
     }
